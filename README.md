@@ -123,23 +123,23 @@ I want to keep Jekyll Now as minimal as possible. Every line of code should be o
 
 Based on https://ddewaele.github.io/running-jekyll-in-docker/
 
-`export JEKYLL_VERSION=3.5`
-
 `cd ideonate-jekyll`
 
 ### Build first time
 
-`docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll build`
+`docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build`
 
 ### Build and serve
 
-`docker run --name jekyll --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve --watch --drafts`
+`docker run --name jekyll --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.5 jekyll serve --watch --drafts`
 
 ### Restart to build fully
 
 `docker restart jekyll`
 
 
+# Deployment
 
+This is automatic from GitHub through AWS Amplify.
 
 
