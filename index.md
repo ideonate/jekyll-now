@@ -6,20 +6,16 @@ permalink: /
 
 Software products for Data Scientists
 
-## nb2xls - Jupyter notebooks to Excel Spreadsheets
+## ContainDS
 
+A simple user interface allowing you to easily run Jupyter Lab or Notebooks through virtual environments on your Windows or Mac computer.
 
-Convert Jupyter notebooks to Excel Spreadsheets (xlsx), through a new 'Download As' option or via nbconvert on the command line.
+Launch a Binder-ready git repository on your local machine.
 
-Respects tables such as Pandas DataFrames. Also exports image data such as matplotlib output.
+![ContainDS Screenshot](images/ContainDS_screenshot.png "ContainDS Screenshot")
 
-Markdown is supported where possible (some elements still need work).
+[See more details on containds.com](https://containds.com/)
 
-Input (code) cells are not included in the spreadsheet.
-
-This allows you to share your results with non-programmers such that they can still easily play with the data.
-
-[View on GitHub here](https://github.com/ideonate/nb2xls)
 
 ## Jupyter Innotater
 
@@ -27,7 +23,23 @@ Annotate data including image bounding boxes inline within your Jupyter notebook
 
 Now works with Jupyter Lab (1.0+)
 
+![Jupyter Innotater Screenshot](images/MultipleBBoxesSingleClass.png "Jupyter Innotater Screenshot")
+
 [View on GitHub here](https://github.com/ideonate/jupyter-innotater)
+
+
+## nb2xls - Jupyter notebooks to Excel Spreadsheets
+
+Convert Jupyter notebooks to Excel Spreadsheets (xlsx), through a new 'Download As' option or via nbconvert on the command line.
+
+Respects markdown and tables such as Pandas DataFrames. Also exports image data such as matplotlib output.
+
+This allows you to share your results with non-programmers such that they can still easily play with the data.
+
+![Jupyter nb2xls Screenshot](images/Jupyter2Excel.png "Jupyter nb2xls")
+
+[View on GitHub here](https://github.com/ideonate/nb2xls)
+
 
 ## Contact us
 
