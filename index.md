@@ -8,11 +8,17 @@ Software products for Data Scientists
 
 ## ContainDS
 
-A simple user interface allowing you to easily run Jupyter Lab or Notebooks through virtual environments on your Windows or Mac computer.
+**Build and Share Data Science Dashboards and Visualisations with Decision Makers - Automatically, Reliably, and Securely**
 
-Launch a Binder-ready git repository on your local machine.
+ContainDS is a set of products granting decision makers and clients easy access to data visualisation insights helping them move projects forward quickly and with confidence.
 
-![ContainDS Screenshot](images/ContainDS_screenshot.png "ContainDS Screenshot")
+ContainDS Dashboards is an on-premise or cloud-based publishing solution for Data Science teams to share results instantly.
+
+![ContainDS Dashboards Screenshot](images/cdsdashboards_screenshot.png "ContainDS Dashboards Screenshot")
+
+ContainDS Desktop is a simple user interface allowing you to easily run Jupyter Lab or Notebooks through virtual environments on your Windows or Mac computer.
+
+![ContainDS Desktop Screenshot](images/ContainDS_screenshot.png "ContainDS Desktop Screenshot")
 
 [See more details on containds.com](https://containds.com/)
 
