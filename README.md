@@ -125,13 +125,13 @@ Based on https://ddewaele.github.io/running-jekyll-in-docker/
 
 `cd ideonate-jekyll`
 
-### Build first time
-
-`docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build`
-
 ### Build and serve
 
-`docker run --name jekyll --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.5 jekyll serve --watch --drafts`
+`docker run --name jekyll --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:4.0 jekyll serve --watch --drafts`
+
+### Build first time
+
+`docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:4.0 jekyll build`
 
 ### Restart to build fully
 
@@ -141,5 +141,10 @@ Based on https://ddewaele.github.io/running-jekyll-in-docker/
 # Deployment
 
 This is automatic from GitHub through AWS Amplify.
+
+Must be in us-east-2 to see it.
+
+To match versions in prod and dev, maybe see if there is a newer jekyll/jekyll image. Also delete the Gemfile.lock (and maybe Gemfile) locally.
+
 
 
