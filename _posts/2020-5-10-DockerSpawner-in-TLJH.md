@@ -57,7 +57,7 @@ c.DockerSpawner.name_template = "{prefix}-{username}-{servername}"
 
 Alternatively, to avoid using vi, just run this command instead:
 ```
-sudo curl https://gist.githubusercontent.com/danlester/4a0ad6c52719679142a290d303faa3db/raw/a549bcdd8df47b8f3e526eeb5d6464f04c625f37/dockerspawner_tljh_config.py > /opt/tljh/config/jupyterhub_config.d/dockerspawner_tljh_config.py
+sudo curl https://gist.githubusercontent.com/danlester/4a0ad6c52719679142a290d303faa3db/raw/d59707f95cba0399ff726392569545cbd46bda33/dockerspawner_tljh_config.py > /opt/tljh/config/jupyterhub_config.d/dockerspawner_tljh_config.py
 ```
 
 ## Download the Docker image
