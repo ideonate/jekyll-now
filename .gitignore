@@ -35,3 +35,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# Because AWS Amplify image will be older and need its own versions
+Gemfile.lock
+
