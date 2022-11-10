@@ -4,9 +4,9 @@ subtitle: Robotic Control System
 layout: default
 modal-id: 1
 date: 2022-11-01
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: robots.jpg
+thumbnail: robots-thumbnail.jpg
+alt: Robot welding metal with sparks
 project-date: Sep 2022
 client: Robotics Startup
 category: Web and Robotics Development

@@ -2,9 +2,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Software development consultant</div>
-                <div class="intro-heading">for startups and small businesses</div>
-                <a href="#services" class="page-scroll btn btn-xl">Find Out More</a>
+                <div class="intro-lead-in">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</div>
             </div>
         </div>
     </header>

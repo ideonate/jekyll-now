@@ -4,9 +4,9 @@ subtitle: Data Pipeline
 layout: default
 modal-id: 2
 date: 2022-11-01
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: climate.jpg
+thumbnail: climate-thumbnail.jpg
+alt: Melting ice in ocean
 project-date: 2021
 client: Climate Change Startup
 category: Cloud and Web Development
