@@ -1,0 +1,16 @@
+---
+title: DevOps Startup
+subtitle: Initial MVP
+layout: default
+modal-id: 3
+date: 2022-11-01
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: Jul 2022
+client: Robotics Startup
+category: Web and Robotics Development
+description:
+  Ideonate selected an AWS serverless architecture due to the funding and staffing limitations of this startup, and to suit the scalability of the product which intermediates between a number of real-time APIs.
+
+---

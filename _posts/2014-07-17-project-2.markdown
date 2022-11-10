@@ -1,0 +1,17 @@
+---
+title: Climate Change Startup
+subtitle: Data Pipeline
+layout: default
+modal-id: 2
+date: 2022-11-01
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: 2021
+client: Climate Change Startup
+category: Cloud and Web Development
+description:
+  Implemented an ETL pipeline, using the startup's existing technology choices, able to crunch daily data feeds into databases ready for their web apps and API.
+  <br/><br/>
+  Ideonate quickly analysed the products available in the cloud platform's suite and selected the most appropriate components to form the data pipeline, understanding the startup's requirements as they balanced speed of development against reliability and future ability to scale.
+---

@@ -1,0 +1,43 @@
+url: https://ideonate.com/
+# baseurl:
+
+# Site settings
+title: Ideonate
+email: dan@ideonate.com
+description: "Interim CTO and software development consultant for early stage startups and small businesses. Ideonate is the consulting company of Dan Lester, a developer and entrepreneur with two decades of wide-ranging experience in the technology industry."
+
+
+# Team names, titles and social links
+people:
+- name: Dan Lester
+  pic: 1
+  position: Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/danlester
+  - title: linkedin
+    url: https://www.linkedin.com/in/lesterdan/
+  - title: github
+    url: http://github.com/ideonate
+  - title: envelope
+    url: mailto:dan@ideonate.com
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Cambridge and London
+  - line: UK
+
+# Build settings
+markdown: kramdown
+permalink: pretty
