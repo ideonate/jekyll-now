@@ -299,7 +299,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
     line-height: 50px;
 }
@@ -346,6 +346,10 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+}
+
+section h3.section-subheading.section-subheading-top {
+  margin-bottom: 15px;
 }
 
 @media(min-width:768px) {

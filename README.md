@@ -3,6 +3,13 @@ Ideonate.com Website
 
 Built by AWS Amplify in us-east-2.
 
+Run locally:
+
+```
+# bundle install
+jekyll serve --watch
+```
+
 
 
 Agency Jekyll theme
