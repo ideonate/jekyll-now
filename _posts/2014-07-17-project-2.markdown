@@ -1,17 +1,19 @@
 ---
-title: Climate Change Startup
-subtitle: Data Pipeline
+title: Martech Startup
+subtitle: Fractional CTO
 layout: default
 modal-id: 2
-date: 2022-11-01
-img: climate.jpg
-thumbnail: climate-thumbnail.jpg
-alt: Melting ice in ocean
-project-date: 2021
-client: Climate Change Startup
-category: Cloud and Web Development
+date: 2023-11-01
+img: brain.jpg
+thumbnail: brain-thumbnail.jpg
+alt: Model of brain
+project-date: "2023-"
+client: Pre-seed Startup
+category: Advisory and MVP
 description:
-  Implemented an ETL pipeline, using the startup's existing technology choices, able to crunch daily data feeds into databases ready for their web apps and API.
+  Helped non-technical founding team understand the role that technology can play in their businesses.
   <br/><br/>
-  Ideonate quickly analysed the products available in the cloud platform's suite and selected the most appropriate components to form the data pipeline, understanding the startup's requirements as they balanced speed of development against reliability and future ability to scale.
+  While competitive pressures caused the founders to focus on technology in their marketing, I persuaded them to focus instead on their core strengths - psychology and marketing.
+  <br/><br/>
+  Meanwhile, I helped build interactive demos to bring their psychological models to life, and helped select off-the-shelf software to deliver the first version of their product.
 ---

@@ -1,19 +1,19 @@
 ---
 title: Robotics Startup
-subtitle: Robotic Control System
+subtitle: Fractional CTO
 layout: default
 modal-id: 1
 date: 2022-11-01
 img: robots.jpg
 thumbnail: robots-thumbnail.jpg
 alt: Robot welding metal with sparks
-project-date: Sep 2022
+project-date: 2022-
 client: Robotics Startup
 category: Web and Robotics Development
 description:
   Designed and built a control system allowing human operators to manage a robotic production pipeline. <br/><br/>
   Ideonate's key insight was that the robots in this setup were reasonably predictable - the software needed to manage the humans' workflow as much as the robots.
   <br/><br/>
-  Built and deployed a live system for the first phase of this startup company's growth, all on time and within estimated budgets.
+  Led build and deployment of live system for the first phase of this startup company's growth, all on time and within estimated budgets.
 
 ---

@@ -1,16 +1,18 @@
 ---
-title: DevOps Startup
-subtitle: Initial MVP
+title: Edtech Startup
+subtitle: Mentor
 layout: default
 modal-id: 3
-date: 2022-11-01
-img: pipes.jpg
-thumbnail: pipes-thumbnail.jpg
-alt: image-alt
+date: 2023-11-01
+img: books.jpg
+thumbnail: books-thumbnail.jpg
+alt: Pile of books
 project-date: Jul 2022
-client: DevOps Startup
-category: Web Development
+client: Pre-seed Edtech Startup
+category: Tech and business advisory
 description:
-  Ideonate selected an AWS serverless architecture due to the funding and staffing limitations of this startup, and to suit the scalability of the product which intermediates between a number of real-time APIs.
+  Acted as business mentor to the founders, and as advisory CTO. Dan helped ensure the outsourced product build was suitable as an MVP and that any vulnerabilities and shortcomings were known and mitigated against.
+  <br/><br/>
+  On the business side, helped clarify the go-to-market and financial plans.
 
 ---
