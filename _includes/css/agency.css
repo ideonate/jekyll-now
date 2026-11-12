@@ -676,6 +676,11 @@ section#contact .section-heading {
     color: #fff;
 }
 
+section#contact .section-subheading a {
+  color: #fff;
+  text-decoration: underline;
+}
+
 section#contact .form-group {
     margin-bottom: 25px;
 }
